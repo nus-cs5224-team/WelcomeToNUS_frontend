@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">nus</string>
+    <string name="office_of_admission">2 College Avenue West, University Town #01-03 (S) 138607
+        University Town</string>
+    <string name="title_activity_main__navigation">MainActivity</string>
+    <string name="title_building">Buildings</string>
+    <string name="title_path">Navigation</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_promotion">Promotion</string>
+</resources>
